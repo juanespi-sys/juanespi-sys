@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Antonio Espinoza
 
-<!--
-**juanespi-sys/juanespi-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy estudiante de **Ingeniería en Sistemas** en la Universidad UCENM. Me apasiona la tecnología, el desarrollo de software y la gestión de proyectos.
 
-Here are some ideas to get you started:
+## 💼 Experiencia
+- Desarrollo de proyectos utilizando **C++** y otras tecnologías.
+- Experiencia en el área de hotelería y turismo.
+- Trabajo en empresas relacionadas con **audio y tecnología**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+- Programación en **C++**.
+- Manejo de software y herramientas tecnológicas.
+- Gestión de proyectos con **SCRUM**.
+- Conocimientos en **barismo** y atención al cliente.
+
+## 📫 Contáctame
+- 📧 **Correo:** espiantonio02@gmail.com
+- 📍 **Ubicación:** Gracias, Lempira, Honduras
+
+¡Gracias por visitar mi perfil! 😃
+
