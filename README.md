@@ -14,7 +14,6 @@ Soy estudiante de **Ingeniería en Sistemas** en la Universidad UCENM. Me apasio
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
 
 
 <h3 align="left">🔥   My Stats :</h3>
